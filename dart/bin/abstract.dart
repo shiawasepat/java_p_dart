@@ -1,4 +1,3 @@
-// Example of using abstract class in Dart
 abstract class Shape {
   double area(); // In Dart, abstract methods don't need the 'abstract' keyword
 }
