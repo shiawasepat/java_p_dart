@@ -1,4 +1,3 @@
-
 // Simple Java inheritance example
 class Animal {
 	void eat() {
